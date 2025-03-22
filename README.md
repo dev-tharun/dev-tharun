@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **👋 Hi there! I'm Tharun, a passionate Python developer eager to build scalable web applications. 🚀
-💡 Skilled in Python, FastAPI, Django, SQLAlchemy ORM, MySQL, HTML, CSS, and database design
+- 💬 Ask me about **👋 Hi there! I'm Tharun, a passionate Python developer eager to build scalable web applications.🚀
+💡Skilled in Python, FastAPI, Django, SQLAlchemy ORM, MySQL, HTML, CSS, JavaScript, and database design
 🛠️ Love crafting efficient, robust APIs, designing optimized databases, and building responsive web interfaces
 💼 Actively seeking full-time opportunities to contribute and grow in the tech industry
 📚 Always learning & exploring new technologies**
