@@ -54,9 +54,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
 </a>
  
-<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/sqlalchemy-logo.png" alt="SQLAlchemy" width="100" height="40"/>
+<a href="https://docs.sqlalchemy.org/en/20/orm/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/sqlalchemy.svg" alt="SQLAlchemy ORM" width="100" height="40"/>
 </a>
+
+
 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-tharun&show_icons=true&locale=en&layout=compact" alt="dev-tharun" /></p>
