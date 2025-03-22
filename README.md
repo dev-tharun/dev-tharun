@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-tharun&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tharun" /> </p>
 
-- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **👋 Hi there! I'm Tharun, a passionate Python developer eager to build scalable web applications.🚀
 💡Skilled in Python, FastAPI, Django, SQLAlchemy ORM, MySQL, HTML, CSS, JavaScript, and database design
