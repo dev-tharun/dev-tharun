@@ -8,7 +8,11 @@
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **👋 Hi there! I'm Tharun, a passionate Python developer eager to kickstart my career in the tech industry. With a strong foundation in Python, Django, MySQL, and web development technologies like HTML, CSS, and JavaScript, I'm excited to contribute to innovative projects and solve real-world problems. 🚀 As a recent graduate, I've embarked on a journey to apply my knowledge and skills in building robust web applications. I thrive on challenges and continuously seek opportunities to learn and grow in this dynamic field. 💼 Currently, I'm actively seeking full-time opportunities where I can leverage my skills to make meaningful contributions to a collaborative team. Whether it's developing scalable web applications, crafting elegant code solutions, or diving into new technologies, I'm ready to take on the challenge. 🌱 Beyond coding, I'm deeply passionate about staying updated with the latest trends and advancements in technology. I believe in the power of continuous learning and self-improvement to stay ahead in this ever-evolving industry. 📫 Interested in discussing potential opportunities or collaborating on exciting projects? Feel free to reach out to me Let's connect and create something awesome together! 💻✨**
+- 💬 Ask me about **👋 Hi there! I'm Tharun, a passionate Python developer eager to build scalable web applications. 🚀
+💡 Skilled in Python, FastAPI, Django, SQLAlchemy ORM, MySQL, HTML, CSS, and database design
+🛠️ Love crafting efficient, robust APIs, designing optimized databases, and building responsive web interfaces
+💼 Actively seeking full-time opportunities to contribute and grow in the tech industry
+📚 Always learning & exploring new technologies**
 
 - 👨‍💻 Now seeking for job
 
