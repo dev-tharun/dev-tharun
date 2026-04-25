@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 <h1 align="center">Hi 👋, I'm Tharun</h1>
-<h3 align="center">Software Engineer at Softye Technologies | MERN Stack Developer</h3>
+<h3 align="center">Associate Software Engineer at Softye Technologies | MERN Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
